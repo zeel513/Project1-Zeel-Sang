@@ -1,4 +1,4 @@
-const header = document.getElementById('site-header');
+const header = document.getElementById('site-header') || document.querySelector('.site-header');
 const toggle = document.querySelector('.nav-toggle');
 
 if (header && toggle) {
