@@ -41,6 +41,10 @@ The site is designed to showcase:
 - Register/Sign In - Zeel
 - Project plan timelines in Excel sheet - Sang Eun
 
+## Project plan
+
+- Excel sheet: [Project Timeline](https://docs.google.com/spreadsheets/d/18ddDPLO0WMd5WSNQDnU1Z9AYBWU2EnjDaCxYskGpOfE/edit?usp=sharing)
+
 ## Page screenshots
 
 Add screenshots for each page later in the following sections.
