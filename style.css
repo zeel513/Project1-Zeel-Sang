@@ -751,6 +751,14 @@ main {
 .philosophy-copy {
     max-width: 820px;
     margin: 0 auto;
+    text-align: left;
+}
+
+.lap-swim-locations a {
+    display: block;
+    color: var(--blue);
+    text-decoration: underline;
+    text-align:left;
 }
 
 .about-cta {
