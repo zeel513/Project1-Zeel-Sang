@@ -183,6 +183,12 @@ main {
         url("images/home.jpeg") center/cover no-repeat;
 }
 
+.hero-adult {
+    background:
+        linear-gradient(rgba(19, 54, 67, 0.18), rgba(19, 54, 67, 0.18)),
+        url("images/lap-swimming.jpeg") center/cover no-repeat;
+}
+
 .hero::before {
     content: "";
     position: absolute;
