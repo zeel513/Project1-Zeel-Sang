@@ -50,36 +50,36 @@ The site is designed to showcase:
 Add screenshots for each page later in the following sections.
 
 ### Homepage
-- Desktop: Add screenshot here
-- Mobile: Add screenshot here
+- Desktop: ![Homepage desktop screenshot](screenshots/desktop/homepage/image.png)
+- Mobile: Add screenshot here in `screenshots/mobile/homepage/`
 
 ### About
-- Desktop: Add screenshot here
-- Mobile: Add screenshot here
+- Desktop: Add screenshot here in `screenshots/desktop/about/`
+- Mobile: Add screenshot here in `screenshots/mobile/about/`
 
 ### Swimming Lessons
-- Desktop: Add screenshot here
-- Mobile: Add screenshot here
+- Desktop: Add screenshot here in `screenshots/desktop/lessons/`
+- Mobile: Add screenshot here in `screenshots/mobile/lessons/`
 
 ### Swim Programs
-- Desktop: Add screenshot here
-- Mobile: Add screenshot here
+- Desktop: Add screenshot here in `screenshots/desktop/programs/`
+- Mobile: Add screenshot here in `screenshots/mobile/programs/`
 
 ### Adult Programs
-- Desktop: Add screenshot here
-- Mobile: Add screenshot here
+- Desktop: Add screenshot here in `screenshots/desktop/adult-programs/`
+- Mobile: Add screenshot here in `screenshots/mobile/adult-programs/`
 
 ### Locations
-- Desktop: Add screenshot here
-- Mobile: Add screenshot here
+- Desktop: Add screenshot here in `screenshots/desktop/locations/`
+- Mobile: Add screenshot here in `screenshots/mobile/locations/`
 
 ### Contact
-- Desktop: Add screenshot here
-- Mobile: Add screenshot here
+- Desktop: Add screenshot here in `screenshots/desktop/contact/`
+- Mobile: Add screenshot here in `screenshots/mobile/contact/`
 
 ### Register / Sign In
-- Desktop: Add screenshot here
-- Mobile: Add screenshot here
+- Desktop: Add screenshot here in `screenshots/desktop/register/`
+- Mobile: Add screenshot here in `screenshots/mobile/register/`
 
 ## How to view locally
 
