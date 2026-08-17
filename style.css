@@ -189,6 +189,12 @@ main {
         url("images/lap-swimming.jpeg") center/cover no-repeat;
 }
 
+.hero-lessons {
+    background:
+        linear-gradient(rgba(19, 54, 67, 0.18), rgba(19, 54, 67, 0.18)),
+        url("images/which-lesson-is-best.jpeg") center/cover no-repeat;
+}
+
 .hero::before {
     content: "";
     position: absolute;
@@ -363,6 +369,11 @@ main {
     margin: 0 0 1rem;
     color: var(--muted);
     font-size: 1rem;
+}
+
+.philosophy-copy a {
+    color: var(--blue);
+    text-decoration: underline;
 }
 
 .teaching-list-wrap {
