@@ -32,7 +32,7 @@ The site is designed to showcase:
 
 ## Team responsibilities
 
-- About - Zeel
+- About and Home - Zeel
 - Swimming Lessons - Sang Eun
 - Swim Programs - Sang Eun
 - Adult Programs - Sang Eun
