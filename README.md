@@ -47,39 +47,75 @@ The site is designed to showcase:
 
 ## Page screenshots
 
-Add screenshots for each page later in the following sections.
-
 ### Homepage
-- Desktop: 
+- Desktop
+![Homepage desktop screenshot 1](screenshots/readme/homepage/home-desktop-1.png)
+![Homepage desktop screenshot 2](screenshots/readme/homepage/home-desktop-2.png)
+![Homepage desktop screenshot 3](screenshots/readme/homepage/home-desktop-3.png)
+
 - Mobile: 
+![Homepage mobile screenshot 1](screenshots/readme/homepage/home-mobile-1.png)
+![Homepage mobile screenshot 2](screenshots/readme/homepage/home-mobile-2.png)
+![Homepage mobile screenshot 3](screenshots/readme/homepage/home-mobile-3.png)
+![Homepage mobile screenshot 4](screenshots/readme/homepage/home-mobile-4.png)
+
+- Menu
+![Homepage mobile menu screenshot](screenshots/readme/homepage/home-menu-mobile.png)
 
 ### About
 - Desktop: 
+![About desktop screenshot 1](screenshots/readme/about/about-desktop-1.png)
+![About desktop screenshot 2](screenshots/readme/about/about-desktop-2.png)
+![About desktop screenshot 3](screenshots/readme/about/about-desktop-3.png)
+
 - Mobile: 
+![About mobile screenshot](screenshots/readme/about/about-mobile-1.png)
 
 ### Swimming Lessons
 - Desktop: 
+![Swimming lessons desktop screenshot 1](screenshots/readme/lessons/lessons-desktop-1.png)
+![Swimming lessons desktop screenshot 2](screenshots/readme/lessons/lessons-desktop-2.png)
+
 - Mobile: 
+![Swimming lessons mobile screenshot 1](screenshots/readme/lessons/lessons-mobile-1.png)
+![Swimming lessons mobile screenshot 2](screenshots/readme/lessons/lessons-mobile-2.png)
 
 ### Swim Programs
-- Desktop: 
+- Desktop:
+![Swim programs desktop screenshot](screenshots/readme/programs/programs-desktop-1.png)
+
 - Mobile: 
+![Swim programs mobile screenshot](screenshots/readme/programs/programs-mobile-1.png)
 
 ### Adult Programs
-- Desktop: 
+- Desktop:
+![Adult programs desktop screenshot 1](screenshots/readme/adult-programs/adult-desktop-1.png)
+![Adult programs desktop screenshot 2](screenshots/readme/adult-programs/adult-desktop-2.png)
+
 - Mobile: 
+![Adult programs mobile screenshot](screenshots/readme/adult-programs/adult-mobile-1.png)
 
 ### Locations
-- Desktop: Add screenshot here in `screenshots/desktop/locations/`
-- Mobile: Add screenshot here in `screenshots/mobile/locations/`
+- Desktop:
+![Locations desktop screenshot](screenshots/readme/locations/locations-desktop-1.png)
+
+- Mobile: 
+![Locations mobile screenshot](screenshots/readme/locations/locations-mobile-1.png)
 
 ### Contact
-- Desktop: Add screenshot here in `screenshots/desktop/contact/`
-- Mobile: Add screenshot here in `screenshots/mobile/contact/`
+- Desktop:
+![Contact desktop screenshot](screenshots/readme/contact/contact-desktop-1.png)
+
+- Mobile: 
+![Contact mobile screenshot 1](screenshots/readme/contact/contact-mobile-1.png)
+![Contact mobile screenshot 2](screenshots/readme/contact/contact-mobile-2.png)
 
 ### Register / Sign In
-- Desktop: Add screenshot here in `screenshots/desktop/register/`
-- Mobile: Add screenshot here in `screenshots/mobile/register/`
+- Desktop:
+![Register sign in desktop screenshot](screenshots/readme/register/register-desktop-1.png)
+
+- Mobile: 
+![Register sign in mobile screenshot](screenshots/readme/register/register-mobile-1.png)
 
 ## How to view locally
 
